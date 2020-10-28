@@ -1,10 +1,5 @@
 ## Analise de Microdados do ENEM
 
-![](https://play-lh.googleusercontent.com/IDLZXWHLCVun428g_YGnR2HgnoIUlIRNfkmEEM0hmrzhBKZrhJ5UwM0_eHaWQT4gXAs)
-
-
-
-
 Repositorio para as atividades da imersão Alura, de 19/10/20 ate 24/10/20.
 
 Analisamos os dados do ENEM 2019, arquivo disponivel [aqui](http://inep.gov.br/microdados).
