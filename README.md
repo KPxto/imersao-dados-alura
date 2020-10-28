@@ -7,8 +7,8 @@ Além de dados das provas como notas e presenças, dentre outros, este dataset n
 
 As aulas foram divididas da seguinte forma:
 
-Dia 1: Sua primeira análise de dados;
-Dia 2: Análise Exploratória de Dados;
-Dia 3: Entendendo o que é Machine Learning;
-Dia 4: Otimizando os hiperparâmetros;
-Dia 5: Storytelling em Data Science;
+  Dia 1: Sua primeira análise de dados;
+  Dia 2: Análise Exploratória de Dados;
+  Dia 3: Entendendo o que é Machine Learning;
+  Dia 4: Otimizando os hiperparâmetros;
+  Dia 5: Storytelling em Data Science;
