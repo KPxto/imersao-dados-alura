@@ -15,3 +15,5 @@ As aulas foram divididas da seguinte forma:
 - Dia 3: Entendendo o que é Machine Learning;
 - Dia 4: Otimizando os hiperparâmetros;
 - Dia 5: Storytelling em Data Science;
+
+*[Storytelling]: Contar Historias
